@@ -1,0 +1,5 @@
+﻿@media print {
+    .print-button {
+        visibility: hidden !important;
+    }
+}

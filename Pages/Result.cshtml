@@ -1,0 +1,17 @@
+﻿@page
+@model ResultModel
+<br />
+
+<div class="container-fluid text-center">
+    <div class="container">
+        <h2 class="text-black">Quiz Result</h2>
+        <p>Your grade: <span class="text-danger">@TempData["Grade"]/10</span></p>
+
+        <form method="post" asp-page="/Certificate" asp-route-grade="@TempData["Grade"]">
+            <button class="btn btn-success" type="submit">Download Certificate</button>
+        </form>
+    </div>
+</div>
+
+
+

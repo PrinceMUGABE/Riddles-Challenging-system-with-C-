@@ -1,0 +1,93 @@
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\appsettings.json
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Riddles.staticwebassets.runtime.json
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Riddles.exe
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Riddles.deps.json
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Riddles.runtimeconfig.json
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Riddles.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Riddles.pdb
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.AssemblyInfo.cs
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.RazorAssemblyInfo.cache
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.RazorAssemblyInfo.cs
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.Riddles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.build.Riddles.props
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Riddles.props
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Riddles.props
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\scopedcss\bundle\Riddles.styles.css
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\scopedcss\projectbundle\Riddles.bundle.scp.css
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.dll
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\refint\Riddles.dll
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.pdb
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.genruntimeconfig.cache
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\ref\Riddles.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.forms.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.io.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.layout.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.sign.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.svg.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\itext.commons.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\princ\source\repos\Riddles\Riddles\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.csproj.AssemblyReference.cache
+C:\Users\princ\source\repos\Riddles\Riddles\obj\Debug\net8.0\Riddles.csproj.CopyComplete
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\appsettings.Development.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\appsettings.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Riddles.staticwebassets.runtime.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Riddles.exe
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Riddles.deps.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Riddles.runtimeconfig.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Riddles.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Riddles.pdb
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.barcodes.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.forms.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.io.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.kernel.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.layout.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.pdfa.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.sign.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.svg.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\itext.commons.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.csproj.AssemblyReference.cache
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.AssemblyInfoInputs.cache
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.AssemblyInfo.cs
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.csproj.CoreCompileInputs.cache
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.MvcApplicationPartsAssemblyInfo.cache
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.RazorAssemblyInfo.cache
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.RazorAssemblyInfo.cs
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.Riddles.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.build.Riddles.props
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Riddles.props
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Riddles.props
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\scopedcss\bundle\Riddles.styles.css
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\scopedcss\projectbundle\Riddles.bundle.scp.css
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.csproj.CopyComplete
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\refint\Riddles.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.pdb
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\Riddles.genruntimeconfig.cache
+D:\MyStaff\TIMO Projects\Riddles\Riddles\obj\Debug\net8.0\ref\Riddles.dll
+D:\MyStaff\TIMO Projects\Riddles\Riddles\bin\Debug\net8.0\DinkToPdf.dll

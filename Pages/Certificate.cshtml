@@ -1,0 +1,71 @@
+﻿@page
+@model CertificateModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate of Completion</title>
+    <link rel="stylesheet" href="~/css/Style.css" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        .certificate-container {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            color: #555;
+            text-align: center;
+            font-size: 18px;
+        }
+
+        .grade {
+            font-size: 24px;
+            font-weight: bold;
+            color: #0066cc;
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        function printCertificate() {
+            window.print();
+        }
+    </script>
+</head>
+<body>
+    <div class="certificate-container">
+        <h2>Certificate of Completion</h2>
+        <p>This certifies that</p>
+        <p><strong>Name: </strong></p>
+        <p>has successfully completed the Riddles Challenge</p>
+        <p>with a grade of <strong>@Model.Grade/10</strong>.</p>
+
+        <p>Completion Date: <strong>@DateTime.Now.ToString("MMMM dd, yyyy")</strong></p>
+
+        <div class="signature">
+            <p>__________________________</p>
+            <p>[Signature]</p>
+            <p>Riddles Challenge</p>
+        </div>
+    </div>
+    <button class="btn btn-primary text-center print-button" onclick="printCertificate()">Print Certificate</button>
+</body>
+</html>

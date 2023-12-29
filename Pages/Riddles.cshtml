@@ -1,0 +1,82 @@
+﻿@page
+@model RiddlesModel
+<br />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riddles Quiz</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container-fluid text-center bg-secondary" style="padding-bottom: 30px; width: 800px;">
+        <div class="h2 text-uppercase text-primary">
+            <h2>Riddles Quiz</h2>
+        </div>
+        <div class="container bg-light" style="width: 600px; height: 200px; margin-bottom: 40px;">
+            <form method="post" asp-page-handler="SubmitAnswer" class="py-5" id="quizForm">
+                <div class="row">
+                    <div class="col-md-6">
+                        @for (int i = 0; i < Model.Riddles.Count; i++)
+                        {
+                            <div class="form-group question" style="display: @(i == 0 ? "block" : "none");">
+                                <div class="form-body text-center">
+                                    <label>@Model.Riddles[i].Question</label><br />
+                                    <input type="text" name="Answers[@i]" required />
+                                </div>
+                            </div>
+                        }
+                        <div class="text-center py-5">
+                            <button type="button" class="btn btn-primary" onclick="prevQuestion()">Previous</button>
+                            <button type="button" class="btn btn-primary" onclick="nextQuestion()">Next</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center py-4">
+                    <button type="submit" class="btn btn-primary" id="submitBtn">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        let currentQuestion = 0;
+
+        function nextQuestion() {
+            const questions = document.querySelectorAll('.question');
+            if (currentQuestion < questions.length - 1) {
+                questions[currentQuestion].style.display = 'none';
+                currentQuestion++;
+                questions[currentQuestion].style.display = 'block';
+            }
+            updateButtons();
+        }
+
+        function prevQuestion() {
+            const questions = document.querySelectorAll('.question');
+            if (currentQuestion > 0) {
+                questions[currentQuestion].style.display = 'none';
+                currentQuestion--;
+                questions[currentQuestion].style.display = 'block';
+            }
+            updateButtons();
+        }
+
+        function updateButtons() {
+            const questions = document.querySelectorAll('.question');
+            const submitBtn = document.getElementById('submitBtn');
+
+            // Hide "Previous" button on the first question
+            document.querySelector('.btn-primary:disabled').disabled = (currentQuestion === 0);
+
+            // Show "Next" button and hide "Submit" button on all questions except the last one
+            document.querySelector('.btn-primary:disabled').disabled = false;
+            document.querySelector('.btn-primary[onclick="prevQuestion()"]').style.display = (currentQuestion === 0) ? 'none' : 'inline-block';
+            document.querySelector('.btn-primary[onclick="nextQuestion()"]').style.display = (currentQuestion === questions.length - 1) ? 'none' : 'inline-block';
+            submitBtn.style.display = (currentQuestion === questions.length - 1) ? 'inline-block' : 'none';
+        }
+    </script>
+</body>
+</html>
